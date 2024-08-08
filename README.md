@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a Machine Learning Engineer at Enquero (a Genp
 ![Tools](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 I leverage a diverse set of tools and platforms to deliver high-impact solutions:
-- **Transformer Models from Hugging Face:** BERT, Llama2/3, Falcon, Mistral
+- **Open Source Models:** BERT, Llama2/3, Falcon, Mistral
 - **Proprietary Models:** GPT-3.5, GPT-4, Claude 3 Haiku, Claude 3.5 Sonnet, Gemini, Palm
 - **Specializations:** LLMops, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-tuning
 
@@ -57,8 +57,8 @@ I leverage a diverse set of tools and platforms to deliver high-impact solutions
 
 ![Contact](https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif)
 
-- **LinkedIn:** [Rounak Saha](https://www.linkedin.com/in/rounak-saha/)
-- **Email:** [rounak.saha@example.com](mailto:rounak.saha@example.com)
+- **LinkedIn:** [Rounak Saha](https://www.linkedin.com/in/rounak-saha-8b2963133/)
+- **Email:** [rsk.rounak@gmail.com](mailto:rsk.rounak@gmail.com)
 
 Feel free to explore my repositories and projects. I'm always open to discussing AI, ML, and collaboration opportunities!
 
