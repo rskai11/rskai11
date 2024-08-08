@@ -1,12 +1,67 @@
-<h1 align="center">Hi 👋, I'm Rounak</h1>
-<h3 align="center">Machine Learning Engineer specializing in Generative AI, LLMs, and cutting-edge MLOps solutions.</h3>
+# Hi, I'm Rounak Saha 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rounak-saha-8b2963133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rounak-saha-8b2963133/" height="30" width="40" /></a>
-</p>
+![AI](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Welcome to my GitHub profile! I'm a Machine Learning Engineer at Enquero (a Genpact company), where I specialize in developing cutting-edge AI and machine learning solutions. My work revolves around harnessing the power of Large Language Models (LLMs), Generative AI, Deep Learning, MLOps, and NLP/NLU to drive innovation and deliver impactful results.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rskaim11&show_icons=true&locale=en&layout=compact" alt="rskaim11" /></p>
+## 🧠 About Me
+
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+- 🔭 **Current Role:** Machine Learning Engineer at [Enquero (a Genpact company)](https://www.enquero.com/)
+- 🌱 **Specializations:**
+  - **Large Language Models (LLMs)**
+  - **Generative AI**
+  - **Deep Learning**
+  - **MLOps**
+  - **Natural Language Processing (NLP) & Natural Language Understanding (NLU)**
+- 🚀 **Technologies I Work With:**
+  - **Langchain**
+  - **Vector DBs:** Chroma, Pinecone, Weviate
+  - **Llama Index**
+  - **Fine-Tuning Techniques:** LORA, QLORA
+  - **Knowledge Graphs:** Neo4J
+- 🛠️ **Tools & Platforms:**
+  - **Azure ML Studio**
+  - **AWS Sagemaker**
+  - **Google Cloud Vertex AI**
+  - **Kubeflow**
+  - **PySpark**
+  - **SQL**
+  - **Apache Airflow**
+- ☁️ **Cloud Expertise:** AWS, Azure, GCP
+
+## 🛠️ My Toolkit
+
+![Tools](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+I leverage a diverse set of tools and platforms to deliver high-impact solutions:
+- **Transformer Models from Hugging Face:** BERT, Llama2/3, Falcon, Mistral
+- **Proprietary Models:** GPT-3.5, GPT-4, Claude 3 Haiku, Claude 3.5 Sonnet, Gemini, Palm
+- **Specializations:** LLMops, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-tuning
+
+## 🌟 Featured Projects
+
+![Projects](https://media.giphy.com/media/3o7aD6W5f1vN7zqKBa/giphy.gif)
+
+- **[Project 1: Operational Time Reduction with LLMs](#)**
+  - Led a core Gen AI project that reduced operational time by more than 74%.
+
+- **[Project 2: Advanced NLP Solutions](#)**
+  - Developed a suite of NLP tools leveraging Transformer models and fine-tuning techniques.
+
+- **[Project 3: Scalable MLOps Pipelines](#)**
+  - Architected and deployed scalable MLOps pipelines using Kubeflow and Airflow.
+
+## 📫 Get in Touch
+
+![Contact](https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif)
+
+- **LinkedIn:** [Rounak Saha](https://www.linkedin.com/in/rounak-saha/)
+- **Email:** [rounak.saha@example.com](mailto:rounak.saha@example.com)
+
+Feel free to explore my repositories and projects. I'm always open to discussing AI, ML, and collaboration opportunities!
+
+---
+
+*This README file was auto-generated to provide a snapshot of my professional journey in the AI/ML space. Let's connect and innovate together!*
