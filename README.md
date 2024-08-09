@@ -1,6 +1,6 @@
 # Hi, I'm Rounak Saha 👋
 
-![AI Superpower](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
+![AI](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 Welcome to my GitHub profile! I'm a Machine Learning Engineer at Enquero (a Genpact company), where I specialize in developing cutting-edge AI and machine learning solutions. My work revolves around harnessing the power of Large Language Models (LLMs), Generative AI, Deep Learning, MLOps, and NLP/NLU to drive innovation and deliver impactful results.
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Machine Learning Engineer at Enquero (a Genp
 
 ## 🛠️ My Toolkit
 
-![AI Power](https://media.giphy.com/media/U3mTXkEd18aeI/giphy.gif)
+![Tools](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 I leverage a diverse set of tools and platforms to deliver high-impact solutions:
 - **Transformer Models from Hugging Face:** BERT, Llama2/3, Falcon, Mistral
@@ -52,8 +52,6 @@ I leverage a diverse set of tools and platforms to deliver high-impact solutions
 
 - **[Project 3: Scalable MLOps Pipelines](#)**
   - Architected and deployed scalable MLOps pipelines using Kubeflow and Airflow.
-
-## 📫 Get in Touch
 
 ![Contact](https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif)
 - **LinkedIn:** [Rounak Saha](https://www.linkedin.com/in/rounak-saha-8b2963133/)
