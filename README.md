@@ -1,6 +1,6 @@
 # Hi, I'm Rounak Saha 👋
 
-![AI](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![AI Superpower](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
 
 Welcome to my GitHub profile! I'm a Machine Learning Engineer at Enquero (a Genpact company), where I specialize in developing cutting-edge AI and machine learning solutions. My work revolves around harnessing the power of Large Language Models (LLMs), Generative AI, Deep Learning, MLOps, and NLP/NLU to drive innovation and deliver impactful results.
 
@@ -33,10 +33,10 @@ Welcome to my GitHub profile! I'm a Machine Learning Engineer at Enquero (a Genp
 
 ## 🛠️ My Toolkit
 
-![Tools](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![AI Power](https://media.giphy.com/media/U3mTXkEd18aeI/giphy.gif)
 
 I leverage a diverse set of tools and platforms to deliver high-impact solutions:
-- **Open Source Models:** BERT, Llama2/3, Falcon, Mistral
+- **Transformer Models from Hugging Face:** BERT, Llama2/3, Falcon, Mistral
 - **Proprietary Models:** GPT-3.5, GPT-4, Claude 3 Haiku, Claude 3.5 Sonnet, Gemini, Palm
 - **Specializations:** LLMops, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-tuning
 
@@ -56,7 +56,6 @@ I leverage a diverse set of tools and platforms to deliver high-impact solutions
 ## 📫 Get in Touch
 
 ![Contact](https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif)
-
 - **LinkedIn:** [Rounak Saha](https://www.linkedin.com/in/rounak-saha-8b2963133/)
 - **Email:** [rsk.rounak@gmail.com](mailto:rsk.rounak@gmail.com)
 
@@ -64,4 +63,4 @@ Feel free to explore my repositories and projects. I'm always open to discussing
 
 ---
 
-*This README file was auto-generated to provide a snapshot of my professional journey in the AI/ML space. Let's connect and innovate together!*
+*This README file is to provide a snapshot of my professional journey in the AI/ML space. Let's connect and innovate together!*
