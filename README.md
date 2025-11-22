@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an AI Engineer at IDEMIA, where I specialize i
 
 ![Coding](https://images.app.goo.gl/BgofMTzGoWS8d6Kv5.gif)
 
-- 🔭 **Current Role:** Machine Learning Engineer at [Enquero (a Genpact company)](https://www.enquero.com/)
+- 🔭 **Current Role:** AI Engineer at [IDEMIA](https://www.idemia.com/)
 - 🌱 **Specializations:**
   - **Large Language Models (LLMs)**
   - **Generative AI**
